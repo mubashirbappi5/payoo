@@ -9,7 +9,7 @@ document.getElementById("btnid").addEventListener("click", function (event) {
     const pin = document.getElementById('pin-num').value
     console.log(pin)
 
-    if(phoneNumber === '018' && pin ==='443'){
+    if(phoneNumber === '01851516736' && pin ==='4343'){
         console.log('login sucessful')
         window.location.href = 'home.html'
         
